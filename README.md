@@ -10,7 +10,7 @@
 Propósito deste projeto é criar uma base de script para auxiliar na montagem de templates para geração de recursos no Azure.
 
 ## Templates
-1.	[Windows Server](https://github.com/renanlq/azure-resourcemanager/src/windowsserver-vm-template.json).
+1.	[Windows Server](https://github.com/renanlq/azure-resourcemanager/blob/master/src/windowsserver-vm-template.json).
 
 ## Validação
 Os templates aqui disponíveis podem ser testados no app [ARMViz](http://armviz.io/)
