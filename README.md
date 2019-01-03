@@ -13,7 +13,7 @@ Propósito deste projeto é criar uma base de script para auxiliar na montagem d
 1.	[Windows Server](https://github.com/renanlq/azure-resourcemanager/blob/master/src/windowsserver-vm-template.json).
 
 ## Validação
-Os templates aqui disponíveis podem ser testados no app [ARMViz](http://armviz.io/)
+Os templates aqui disponíveis podem ser testados no app [ARMViz](http://armviz.io/).
 
 ## Contribuição
-Se deseja contribuir saiba mais sobre a formatação do arquivo README, veja em [Guia de Sintax](https://docs.microsoft.com/en-us/vsts/project/wiki/markdown-guidance?view=vsts)
+Se deseja contribuir saiba mais sobre a formatação do arquivo README, veja em [Guia de Sintax](https://docs.microsoft.com/en-us/vsts/project/wiki/markdown-guidance?view=vsts).
